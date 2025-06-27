@@ -4,6 +4,9 @@ output_videos/
 runs/
 models/
 yolov8x.pt
+*.pt
+*.avi
+*.mp4
 
 # Byte‑code caches
 __pycache__/
